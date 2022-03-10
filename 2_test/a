@@ -1,0 +1,34 @@
+pb
+pb
+ss
+ra
+pa
+ra
+ra
+pa
+ra
+ra
+ra
+Process:         push_swap [74985]
+Path:            /Volumes/VOLUME/*/push_swap
+Load Address:    0x108fb0000
+Identifier:      push_swap
+Version:         ???
+Code Type:       X86-64
+Parent Process:  leaks [74979]
+
+Date/Time:       2022-03-10 19:12:50.612 +0300
+Launch Time:     2022-03-10 19:12:50.471 +0300
+OS Version:      Mac OS X 10.14.6 (18G9323)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 11.3.1 (11C505)
+
+Physical footprint:         328K
+Physical footprint (peak):  328K
+----
+
+leaks Report Version: 4.0
+Process 74985: 162 nodes malloced for 14 KB
+Process 74985: 0 leaks for 0 total leaked bytes.
+
